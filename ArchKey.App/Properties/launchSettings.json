@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ArchKey (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ArchKey (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
